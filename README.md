@@ -1,4 +1,4 @@
-# 🌌 Dalavai Hemanth — Immersive 3D Developer Portfolio
+#  Dalavai Hemanth 
 
 A premium, interactive 3D developer portfolio showcasing software engineering, data science, and machine learning projects. Built using React, Vite, Three.js, and Framer Motion, it features a glassmorphic user interface, smooth kinetic scrolling, dynamic micro-animations, and ambient audio feedback.
 
